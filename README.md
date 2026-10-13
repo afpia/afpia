@@ -1,4 +1,4 @@
-### Nikita 
+### About 
 
 Frontend Developer focused on building clean, typed and maintainable web interfaces.
 
