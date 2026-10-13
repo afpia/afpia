@@ -1,4 +1,4 @@
-### Nikita Galkin
+### Nikita 
 
 Frontend Developer focused on building clean, typed and maintainable web interfaces.
 
@@ -12,9 +12,3 @@ JavaScript · TypeScript · React · Redux Toolkit · RTK Query · Next · Effec
 #### Also exploring
 
 Vue ecosystem · Backend with Nest
-
-#### Contacts
-
-Telegram: [@afpiya](https://t.me/afpiya)  
-LinkedIn: [afpiya](https://www.linkedin.com/in/afpiya)
-
